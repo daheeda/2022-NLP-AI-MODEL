@@ -3,21 +3,21 @@
 
 ## 🎈 data processing
 ```
-- konlpy - mecab
-- regular expression
-- stop words
+ konlpy - mecab
+ regular expression
+ stop words
 ```
 
 ## 🎈 Modeling
 
 **Model**
 ```
-- gru 
-- lstm 
-- bilstm
-- kobert
+ gru 
+ lstm 
+ bilstm
+ kobert
 ```
 **Cross Validation**
 ```
-kfold
+k-fold
 ```
